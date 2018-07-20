@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuTest"
+        android:title="Info" />
+    <item
+        android:id="@+id/menuDiscover"
+        android:title="Discover" />
+    <item
+        android:id="@+id/menuHfpConnect"
+        android:title="Connect to Hfp" />
+    <item
+        android:id="@+id/menu_disconnect"
+        android:title="Disconnect All" />
+    <item
+        android:id="@+id/menu_showconnect"
+        android:title="Show Connected" />
+    <item
+        android:id="@+id/menu_setActive"
+        android:title="Set Active" />
+</menu>
